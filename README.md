@@ -46,7 +46,7 @@ A full-stack real-time chat application built as part of the CodeAlpha Full Stac
 
 1. Clone the repository
    Bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone (https://github.com/Aiman404/CodeAlpha_realtime-Comms.git)
    cd your-repo-name/backend
 
 
